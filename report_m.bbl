@@ -1,0 +1,182 @@
+\begin{thebibliography}{10}
+
+\bibitem{goos_fast_2000}
+Kalyanmoy Deb, Samir Agrawal, Amrit Pratap, and T~Meyarivan.
+\newblock A {Fast} {Elitist} {Non}-dominated {Sorting} {Genetic} {Algorithm}
+  for {Multi}-objective {Optimization}: {NSGA}-{II}.
+\newblock In G.~Goos, J.~Hartmanis, J.~Van~Leeuwen, Marc Schoenauer, Kalyanmoy
+  Deb, Günther Rudolph, Xin Yao, Evelyne Lutton, Juan~Julian Merelo, and
+  Hans-Paul Schwefel, editors, {\em Parallel {Problem} {Solving} from {Nature}
+  {PPSN} {VI}}, volume 1917, pages 849--858. Springer Berlin Heidelberg,
+  Berlin, Heidelberg, 2000.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\bibitem{trautmann_hypervolume_2017}
+Hao Wang, André Deutz, Thomas Bäck, and Michael Emmerich.
+\newblock Hypervolume {Indicator} {Gradient} {Ascent} {Multi}-objective
+  {Optimization}.
+\newblock In Heike Trautmann, Günter Rudolph, Kathrin Klamroth, Oliver
+  Schütze, Margaret Wiecek, Yaochu Jin, and Christian Grimme, editors, {\em
+  Evolutionary {Multi}-{Criterion} {Optimization}}, volume 10173, pages
+  654--669. Springer International Publishing, Cham, 2017.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\bibitem{qingfu_zhang_moead_2007}
+{Qingfu Zhang} and {Hui Li}.
+\newblock {MOEA}/{D}: {A} {Multiobjective} {Evolutionary} {Algorithm} {Based}
+  on {Decomposition}.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 11(6):712--731,
+  December 2007.
+
+\bibitem{ishibuchi_multi-objective_1998}
+H.~Ishibuchi and T.~Murata.
+\newblock A multi-objective genetic local search algorithm and its application
+  to flowshop scheduling.
+\newblock {\em IEEE Transactions on Systems, Man and Cybernetics, Part C
+  (Applications and Reviews)}, 28(3):392--403, August 1998.
+
+\bibitem{horn_niched_1994}
+J.~Horn, N.~Nafpliotis, and D.E. Goldberg.
+\newblock A niched {Pareto} genetic algorithm for multiobjective optimization.
+\newblock In {\em Proceedings of the {First} {IEEE} {Conference} on
+  {Evolutionary} {Computation}. {IEEE} {World} {Congress} on {Computational}
+  {Intelligence}}, pages 82--87, Orlando, FL, USA, 1994. IEEE.
+
+\bibitem{laumanns_unified_2000}
+M.~Laumanns, E.~Zitzler, and L.~Thiele.
+\newblock A unified model for multi-objective evolutionary algorithms with
+  elitism.
+\newblock In {\em Proceedings of the 2000 {Congress} on {Evolutionary}
+  {Computation}. {CEC00} ({Cat}. {No}.{00TH8512})}, volume~1, pages 46--53, La
+  Jolla, CA, USA, 2000. IEEE.
+
+\bibitem{forrest_proceedings_1993}
+Stephanie Forrest and USA, editors.
+\newblock {\em Proceedings of the {Fifth} {International} {Conference} on
+  {Genetic} {Algorithms}: {University} of {Illinois} at {Urbana}-{Champaign},
+  {July} 17 - 21, 1993}.
+\newblock Morgan Kaufmann, San Mateo, Calif, 1993.
+\newblock Meeting Name: International Conference on Genetic Algorithms.
+
+\bibitem{murata_moga_1995}
+T.~Murata and H.~Ishibuchi.
+\newblock {MOGA}: multi-objective genetic algorithms.
+\newblock In {\em Proceedings of 1995 {IEEE} {International} {Conference} on
+  {Evolutionary} {Computation}}, volume~1, page 289, Perth, WA, Australia,
+  1995. IEEE.
+
+\bibitem{zitzler_multiobjective_1999}
+E.~Zitzler and L.~Thiele.
+\newblock Multiobjective evolutionary algorithms: a comparative case study and
+  the strength {Pareto} approach.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 3(4):257--271,
+  November 1999.
+
+\bibitem{srinivas_muiltiobjective_1994}
+N.~Srinivas and Kalyanmoy Deb.
+\newblock Muiltiobjective {Optimization} {Using} {Nondominated} {Sorting} in
+  {Genetic} {Algorithms}.
+\newblock {\em Evolutionary Computation}, 2(3):221--248, September 1994.
+
+\bibitem{goos_effects_2001}
+Marco Laumanns, Eckart Zitzler, and Lothar Thiele.
+\newblock On {The} {Effects} of {Archiving}, {Elitism}, and {Density} {Based}
+  {Selection} in {Evolutionary} {Multi}-objective {Optimization}.
+\newblock In G.~Goos, J.~Hartmanis, J.~Van~Leeuwen, Eckart Zitzler, Lothar
+  Thiele, Kalyanmoy Deb, Carlos~Artemio Coello~Coello, and David Corne,
+  editors, {\em Evolutionary {Multi}-{Criterion} {Optimization}}, volume 1993,
+  pages 181--196. Springer Berlin Heidelberg, Berlin, Heidelberg, 2001.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\bibitem{knowles_pareto_1999}
+J.~Knowles and D.~Corne.
+\newblock The {Pareto} archived evolution strategy: a new baseline algorithm
+  for {Pareto} multiobjective optimisation.
+\newblock In {\em Proceedings of the 1999 {Congress} on {Evolutionary}
+  {Computation}-{CEC99} ({Cat}. {No}. {99TH8406})}, pages 98--105, Washington,
+  DC, USA, 1999. IEEE.
+
+\bibitem{goos_pareto_2000}
+David~W. Corne, Joshua~D. Knowles, and Martin~J. Oates.
+\newblock The {Pareto} {Envelope}-{Based} {Selection} {Algorithm} for
+  {Multiobjective} {Optimization}.
+\newblock In G.~Goos, J.~Hartmanis, J.~Van~Leeuwen, Marc Schoenauer, Kalyanmoy
+  Deb, Günther Rudolph, Xin Yao, Evelyne Lutton, Juan~Julian Merelo, and
+  Hans-Paul Schwefel, editors, {\em Parallel {Problem} {Solving} from {Nature}
+  {PPSN} {VI}}, volume 1917, pages 839--848. Springer Berlin Heidelberg,
+  Berlin, Heidelberg, 2000.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\bibitem{grefenstette_proceedings_1988}
+John~J. Grefenstette and Texas~Instruments Incorporated, editors.
+\newblock {\em Proceedings of the {First} {International} {Conference} on
+  {Genetic} {Algorithms} and {Their} {Applications}: {July} 24- 26, 1985 at the
+  {Carnegie}-{Mellon} {University}, {Pittsburgh}, {Pa}}.
+\newblock Erlbaum, Hillsdale, N.J. u.a, 1988.
+\newblock Meeting Name: International Conference on Genetic Algorithms and
+  Their Applications.
+
+\bibitem{beume_sms-emoa_2007}
+Nicola Beume, Boris Naujoks, and Michael Emmerich.
+\newblock {SMS}-{EMOA}: {Multiobjective} selection based on dominated
+  hypervolume.
+\newblock {\em European Journal of Operational Research}, 181(3):1653--1669,
+  September 2007.
+
+\bibitem{zitzler_spea2_2001}
+Eckart Zitzler, Marco Laumanns, and Lothar Thiele.
+\newblock {SPEA2}: {Improving} the strength pareto evolutionary algorithm.
+\newblock Technical report, ETH Zurich, May 2001.
+\newblock Artwork Size: 21 p. Medium: application/pdf.
+
+\bibitem{yang_gradient-guided_2022}
+Shangshang Yang, Ye~Tian, Cheng He, Xingyi Zhang, Kay~Chen Tan, and Yaochu Jin.
+\newblock A {Gradient}-{Guided} {Evolutionary} {Approach} to {Training} {Deep}
+  {Neural} {Networks}.
+\newblock {\em IEEE Transactions on Neural Networks and Learning Systems},
+  33(9):4861--4875, September 2022.
+
+\bibitem{tian_integrating_2022}
+Ye~Tian, Haowen Chen, Haiping Ma, Xingyi Zhang, Kay~Chen Tan, and Yaochu Jin.
+\newblock Integrating {Conjugate} {Gradients} {Into} {Evolutionary}
+  {Algorithms} for {Large}-{Scale} {Continuous} {Multi}-{Objective}
+  {Optimization}.
+\newblock {\em IEEE/CAA Journal of Automatica Sinica}, 9(10):1801--1817,
+  October 2022.
+
+\bibitem{lin_evolutionary_2023}
+Xi~Lin, Xiaoyuan Zhang, Zhiyuan Yang, and Qingfu Zhang.
+\newblock Evolutionary {Pareto} {Set} {Learning} with {Structure}
+  {Constraints}.
+\newblock 2023.
+\newblock Publisher: arXiv Version Number: 1.
+
+\bibitem{sosa_hernandez_set-based_2020}
+Victor~Adrian Sosa~Hernandez, Oliver Schutze, Hao Wang, Andre Deutz, and
+  Michael Emmerich.
+\newblock The {Set}-{Based} {Hypervolume} {Newton} {Method} for
+  {Bi}-{Objective} {Optimization}.
+\newblock {\em IEEE Transactions on Cybernetics}, 50(5):2186--2196, May 2020.
+
+\bibitem{schuetze_time_2014}
+Michael Emmerich and André Deutz.
+\newblock Time {Complexity} and {Zeros} of the {Hypervolume} {Indicator}
+  {Gradient} {Field}.
+\newblock In Oliver Schuetze, Carlos~A. Coello~Coello, Alexandru-Adrian Tantar,
+  Emilia Tantar, Pascal Bouvry, Pierre~Del Moral, and Pierrick Legrand,
+  editors, {\em {EVOLVE} - {A} {Bridge} between {Probability}, {Set} {Oriented}
+  {Numerics}, and {Evolutionary} {Computation} {III}}, volume 500, pages
+  169--193. Springer International Publishing, Heidelberg, 2014.
+\newblock Series Title: Studies in Computational Intelligence.
+
+\bibitem{bartz-beielstein_gradient-basedevolutionary_2007}
+Michael Emmerich, André Deutz, and Nicola Beume.
+\newblock Gradient-{Based}/{Evolutionary} {Relay} {Hybrid} for {Computing}
+  {Pareto} {Front} {Approximations} {Maximizing} the {S}-{Metric}.
+\newblock In Thomas Bartz-Beielstein, María~José Blesa~Aguilera, Christian
+  Blum, Boris Naujoks, Andrea Roli, Günter Rudolph, and Michael Sampels,
+  editors, {\em Hybrid {Metaheuristics}}, volume 4771, pages 140--156. Springer
+  Berlin Heidelberg, Berlin, Heidelberg, 2007.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\end{thebibliography}

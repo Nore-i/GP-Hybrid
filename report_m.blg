@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report_m.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+This database file appears more than once: report_mNotes.bib
+---line 30 of file report_m.aux
+ : \bibdata{report_mNotes,report_mNotes
+ :                                     }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Database file #1: report_mNotes.bib
+Warning--I didn't find a database entry for "MOEA-D"
+Warning--I didn't find a database entry for "SMS-EMOA"
+Warning--I didn't find a database entry for "AunifiedmodelLaumanns"
+Warning--I didn't find a database entry for "HIGA-MO"
+Warning--empty journal in lin_evolutionary_2023
+You've used 22 entries,
+            1791 wiz_defined-function locations,
+            607 strings with 9948 characters,
+and the built_in function-call counts, 7424 in all, are:
+= -- 678
+> -- 409
+< -- 18
++ -- 139
+- -- 117
+* -- 575
+:= -- 1154
+add.period$ -- 86
+call.type$ -- 22
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 316
+empty$ -- 626
+format.name$ -- 117
+if$ -- 1675
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 21
+newline$ -- 123
+num.names$ -- 36
+pop$ -- 58
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 175
+stack$ -- 0
+substring$ -- 497
+swap$ -- 110
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 72
+width$ -- 24
+write$ -- 290
+(There was 1 error message)

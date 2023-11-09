@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.25)  8 NOV 2023 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.25)  9 NOV 2023 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -246,8 +246,7 @@ Class revtex4-2 Info: multicol was not loaded (OK!) on input line 72.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box70
-)
-(C:\Users\K1191\Study\Learn\Papers\Self\HybridEA+GD\build\report_m.aux
+) (report_m.aux
 
 LaTeX Warning: Label `sec:level2' multiply defined.
 
@@ -338,8 +337,8 @@ File: ./images/fig_0.png Graphic file (type png)
 Package pdftex.def Info: ./images/fig_0.png  used on input line 127.
 (pdftex.def)             Requested size: 127.5pt x 95.55275pt.
 
-Package natbib Warning: Citation `A unified model Laumanns' on page 1 undefined
- on input line 134.
+Package natbib Warning: Citation `AunifiedmodelLaumanns' on page 1 undefined on
+ input line 134.
 
 
 Package natbib Warning: Citation `SMS-EMOA' on page 1 undefined on input line 1
@@ -401,25 +400,40 @@ File: ./images/fig_4.png Graphic file (type png)
 <use ./images/fig_4.png>
 Package pdftex.def Info: ./images/fig_4.png  used on input line 270.
 (pdftex.def)             Requested size: 153.00156pt x 136.19038pt.
+ [4 <./images/fig_4.png>] (report_m.bbl
+Underfull \hbox (badness 1331) in paragraph at lines 76--80
+ \OT1/cmr/m/n/9 go-rithms.  \OT1/cmr/m/it/9 Evo-lu-tion-ary Com-pu-ta-tion\OT1/
+cmr/m/n/9 , 2(3):221--248,
+ []
 
-No file report_m.bbl.
+
+Underfull \hbox (badness 2189) in paragraph at lines 155--160
+ \OT1/cmr/m/n/9 Op-ti-miza-tion.  \OT1/cmr/m/it/9 IEEE Trans-ac-tions on Cy-ber
+-net-ics\OT1/cmr/m/n/9 ,
+ []
+
+[5]
+Underfull \hbox (badness 1097) in paragraph at lines 173--181
+ \OT1/cmr/m/n/9 S-Metric.  In Thomas Bartz-Beielstein, Mar^^S^^Pa Jos^^Se
+ []
+
+)
 
 Package natbib Warning: There were undefined citations.
 
-[4 <./images/fig_4.png>]
-(C:\Users\K1191\Study\Learn\Papers\Self\HybridEA+GD\build\report_m.aux)
+[6] (report_m.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4916 strings out of 476334
- 69502 string characters out of 5804386
- 1871382 words of memory out of 5000000
- 25292 multiletter control sequences out of 15000+600000
+ 4989 strings out of 476334
+ 71827 string characters out of 5804386
+ 1879382 words of memory out of 5000000
+ 25363 multiletter control sequences out of 15000+600000
  519476 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,76p,1213b,313s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,8n,76p,1213b,362s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\K1191\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cm
@@ -432,10 +446,10 @@ public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.p
 fb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti9.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msb
 m10.pfb><C:/MiKTeX/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on C:\Users\K1191\Study\Learn\Papers\Self\HybridEA+GD\build\repo
-rt_m.pdf (4 pages, 393862 bytes).
+Output written on "C:\Users\K1191\Study\School\CoursesFolder\2023 Fall - Curren
+t\创新实践I\First-pre\build\report_m.pdf" (6 pages, 414865 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
